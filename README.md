@@ -1,10 +1,14 @@
-<div align="center">
-<h1 align="center">Hi, I'm Emilio 👋</h1>
+<div align="left">
+<h1 align="left">Emilio Latorre</h1>
 </div>
+I'm a Product and entrepreneur enthusiast with a Digital Business background.
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,webflow,wordpress,)](https://skillicons.dev)
 
-<p align="center">
+### :octocat: &nbsp;GitHub Analytics
+
+<p align="left">
 <a href="https://github.com/emiliolatorre">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emiliolatorre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emiliolatorre&layout=compact&langs_count=8&theme=algolia"/>
@@ -33,4 +37,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Connect with me ☕ :
+
+<br>
+
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+
+<br>
 -->
