@@ -1,14 +1,17 @@
-<div align="left">
-<h1 align="left">Emilio Latorre</h1>
+<div align="center">
+<h1 align="center">Hi, I'm Emilio 👋</h1>
 </div>
-I'm a Product and entrepreneur enthusiast with a Digital Business background.
 
-### ⚙️ Technologies
+### ⚙️ Tech Stack
+<div align="left">
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,webflow,wordpress,)](https://skillicons.dev)
+
+</div>
 
 ### :octocat: &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/emiliolatorre">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emiliolatorre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emiliolatorre&layout=compact&langs_count=8&theme=algolia"/>
