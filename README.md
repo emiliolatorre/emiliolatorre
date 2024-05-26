@@ -2,11 +2,9 @@
 
 #### A Product enthusiast with digital business background, currently studying Full-Stack
 
-Full-Stack Web Dev at [@The Bridge](https://www.thebridge.tech/);<br>
+Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
 
-● ⚙️ Tech Stack
-
-<code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
+● ⚙️ Tech Stack:    <code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=html"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=css"></code>
 <code><img height="20" src="https://skillicons.dev/icons?i=figma"></code>
