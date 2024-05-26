@@ -2,14 +2,14 @@
 #### A Product enthusiast with digital business background, currently studying Full-Stack
 
 Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
-- ⚙️ Tech Stack:&nbsp;&nbsp; <code><img height="15" src="https://skillicons.dev/icons?i=js"></code>
+- ⚙️ Tech Stack: &nbsp; <code><img height="15" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=html"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=css"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=figma"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=webflow"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=wordpress"></code>
 <details>
-<summary>&nbsp;&nbsp;&nbsp; :octocat: &nbsp;GitHub Analytics:</summary>
+<summary>&nbsp;&nbsp;&nbsp; :octocat: GitHub Analytics:</summary>
 <br />
 <p align="left">
 <a href="https://github.com/emiliolatorre">
