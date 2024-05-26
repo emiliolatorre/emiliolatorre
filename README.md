@@ -1,25 +1,23 @@
 ### Hello there 👋
-
 #### A Product enthusiast with digital business background, currently studying Full-Stack
 
-Full-Stack Web Dev at [@The Bridge](https://www.thebridge.tech/)<br>
-
-● ⚙️ Tech Stack:
-
-<code><img height="25" src="https://skillicons.dev/icons?i=js"></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=html"></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=css"></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=figma"></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=webflow"></code>
-<code><img height="25" src="https://skillicons.dev/icons?i=wordpress"></code>
-
-● :octocat: &nbsp;GitHub Analytics:
+Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
+- ⚙️ Tech Stack:&nbsp;&nbsp; <code><img height="15" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="15" src="https://skillicons.dev/icons?i=html"></code>
+<code><img height="15" src="https://skillicons.dev/icons?i=css"></code>
+<code><img height="15" src="https://skillicons.dev/icons?i=figma"></code>
+<code><img height="15" src="https://skillicons.dev/icons?i=webflow"></code>
+<code><img height="15" src="https://skillicons.dev/icons?i=wordpress"></code>
+<details>
+<summary>&nbsp;&nbsp;&nbsp; :octocat: &nbsp;GitHub Analytics</summary>
+<br />
 <p align="left">
 <a href="https://github.com/emiliolatorre">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emiliolatorre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emiliolatorre&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emiliolatorre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emiliolatorre&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+</details>
 
 ----
 
