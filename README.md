@@ -9,7 +9,7 @@ Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
 <code><img height="15" src="https://skillicons.dev/icons?i=webflow"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=wordpress"></code>
 <details>
-<summary>&nbsp;&nbsp;&nbsp; :octocat: &nbsp;GitHub Analytics</summary>
+<summary>&nbsp;&nbsp;&nbsp; :octocat: &nbsp;GitHub Analytics:</summary>
 <br />
 <p align="left">
 <a href="https://github.com/emiliolatorre">
