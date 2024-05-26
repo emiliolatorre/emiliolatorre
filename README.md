@@ -13,8 +13,8 @@ Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
 <br />
 <p align="left">
 <a href="https://github.com/emiliolatorre">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emiliolatorre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emiliolatorre&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emiliolatorre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emiliolatorre&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 </details>
