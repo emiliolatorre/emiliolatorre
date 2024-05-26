@@ -2,16 +2,18 @@
 
 #### A Product enthusiast with digital business background, currently studying Full-Stack
 
-Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
+Full-Stack Web Dev at [@The Bridge](https://www.thebridge.tech/)<br>
 
-● ⚙️ Tech Stack:    <code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=html"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=css"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=figma"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=webflow"></code>
-<code><img height="20" src="https://skillicons.dev/icons?i=wordpress"></code>
+● ⚙️ Tech Stack:
 
-● :octocat: &nbsp;GitHub Analytics</summary>
+<code><img height="25" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=html"></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=css"></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=figma"></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=webflow"></code>
+<code><img height="25" src="https://skillicons.dev/icons?i=wordpress"></code>
+
+● :octocat: &nbsp;GitHub Analytics:
 <p align="left">
 <a href="https://github.com/emiliolatorre">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emiliolatorre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
