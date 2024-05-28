@@ -1,4 +1,4 @@
-<!-- ### Hello there 👋
+### Hello there 👋
 #### A Product enthusiast with digital business background, currently studying Full-Stack
 
 Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
@@ -29,7 +29,7 @@ Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
 </a>
 
 |
--->
+
 <!--  
 ### Hello there 👋
 
