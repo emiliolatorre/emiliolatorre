@@ -1,13 +1,13 @@
-### Hello there 👋
-#### A Product enthusiast with digital business background, currently studying Full-Stack
-
-Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
+#### MBA graduated by ICEX and Full Stack Web Development student at [@the Bridge](https://www.thebridge.tech/)
+Product enthusiast, bridging business & tech.<br>
 - ⚙️ Tech Stack: &nbsp; <code><img height="15" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=html"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=css"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=figma"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=webflow"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=wordpress"></code>
+<code><img height="15" src="https://skillicons.dev/icons?i=firebase"></code>
+<code><img height="15" src="https://skillicons.dev/icons?i=nodejs"></code>
 <details>
 <summary>&nbsp;&nbsp;&nbsp; :octocat: GitHub Analytics:</summary>
 <br />
@@ -29,6 +29,7 @@ Full-Stack Web Development at [@The Bridge](https://www.thebridge.tech/)<br>
 </a>
 
 |
+&nbsp;&nbsp;&nbsp; Product Portfolio : [https://portfolio-emilio-latorre.webflow.io/](https://portfolio-emilio-latorre.webflow.io/) &nbsp;&nbsp;&nbsp;
 
 <!--  
 ### Hello there 👋
