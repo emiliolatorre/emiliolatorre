@@ -8,6 +8,8 @@ Product enthusiast, bridging business & tech.<br>
 <code><img height="15" src="https://skillicons.dev/icons?i=wordpress"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=firebase"></code>
 <code><img height="15" src="https://skillicons.dev/icons?i=nodejs"></code>
+<code><img height="15" src="https://skillicons.dev/icons?i=sqlite"></code>
+<code><img height="15" src="https://skillicons.dev/icons?i=mongodb"></code>
 <details>
 <summary>&nbsp;&nbsp;&nbsp; :octocat: GitHub Analytics:</summary>
 <br />
