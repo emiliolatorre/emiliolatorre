@@ -25,7 +25,7 @@ Product enthusiast, bridging business & tech.<br>
 ----
 
 <a href="https://linkedin.com/in/emiliolatorre">
-  <img align="left" alt="Emilio's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Emilio's LinkedIn" width="20px" src="https://i.sstatic.net/gVE0j.png" />
 </a>
 <a href="mailto: emiliolatorreguerra@gmail.com">
   <img align="left" alt="Emilio's Email" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
